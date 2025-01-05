@@ -1,84 +1,49 @@
-<div style="display: flex; align-items: flex-start;">
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <h1 style="margin: 0;">Hi 👋, I'm akhil</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=270&height=30&lines=Back%20End%20Developer%3BOpen-Source%20Contributor%3BTech%20Enthusiast" style="margin-left: 10px;" />
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-#  About Me
+###
 
-I am pursuing First Year Computer Engineering at KJSCE, Mumbai. I like to add and improve my skills as a young computer science student. Let's connect !
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-# 💻 Tech Stack
-### 💻 Programming Languages
-<p>
-<img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=python" alt="Python" /> <img src="https://img.shields.io/badge/C++-3178C6?style=flat&logo=c++" alt="C++" />
-</p>
-### 🛢 Database
-<p>
-<img src="https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql" alt="MySQL" />
-</p>
-### 🔧 DevOps & CI/CD
-<p>
-<img src="https://img.shields.io/badge/GitHub_Actions-2496ED?style=flat&logo=github-actions" alt="GitHub Actions" />
-</p>
-### 🛠 Tools & IDE
-<p>
-<img src="https://img.shields.io/badge/VS_Code-333333?style=flat&logo=vs-code" alt="VS Code" />
-</p>
+###
 
-# 🌱 Currently Learning
+<br clear="both">
 
-- HTML
-- CSS
-- Java
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-# 💻 Workspace Specs
-
-### Operating Systems
-
-![Windows](https://img.shields.io/badge/Windows-000000?style=flat&logo=windows&logoColor=white)
-
-### Tools
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=vs-code&logoColor=white)
-
-### Browsers
-
-![Edge](https://img.shields.io/badge/Edge-4285F4?style=flat&logo=edge&logoColor=white) ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat&logo=chrome&logoColor=white)
-
-# 📊 GitHub Statistics
-
-<p>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akh1l1202&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
-</p>
-<p>
-  <img src="https://streak-stats.demolab.com?user=akh1l1202&theme=github-dark-blue&hide_border=true&background=00000000&border=30363d&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats" />
-</p>
-<p>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=akh1l1202&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages" />
-</p>
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=akh1l1202&theme=onestar&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=8" alt="GitHub Trophies" />
-</p>
-<p>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akh1l1202&bg_color=00000000&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
-# 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akh1l1202/)
-
-<p>
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-<p>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=akh1l1202&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+###
