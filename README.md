@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=270&height=30&lines=Back%20End%20Developer%3BOpen-Source%20Contributor%3BTech%20Enthusiast" style="margin-left: 10px;" />
 </div>
 
-# 👨‍�� About Me
+#  About Me
 
 I am pursuing First Year Computer Engineering at KJSCE, Mumbai. I like to add and improve my skills as a young computer science student. Let's connect !
 
